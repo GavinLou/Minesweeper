@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "踩地雷", "踩地雷\踩地雷.csproj", "{F4F166CC-B1F3-475B-A351-5A9288C392A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4F166CC-B1F3-475B-A351-5A9288C392A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F166CC-B1F3-475B-A351-5A9288C392A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F166CC-B1F3-475B-A351-5A9288C392A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F166CC-B1F3-475B-A351-5A9288C392A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53AD82A9-4D99-47B5-937D-C2513F33FFAA}
+	EndGlobalSection
+EndGlobal
